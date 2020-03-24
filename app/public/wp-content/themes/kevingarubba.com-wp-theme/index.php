@@ -1,0 +1,2 @@
+<?php
+// kevingarubba.com placeholder
